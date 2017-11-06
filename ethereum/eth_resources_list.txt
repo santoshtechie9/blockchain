@@ -1,6 +1,25 @@
 
 
 
+
+Permissioned Blocks White Paper
+From <https://github.com/autocontracts/permissioned-blocks/blob/master/whitepaper.md> 
+
+Smart Contracts 101: Revolutionizing the way business gets done
+From <https://www.freightwaves.com/news/2017/10/9/smart-contracts-101-revolutionizing-the-way-business-gets-done> 
+
+Emerging New Trends in Blockchain Technologies
+From <https://blog.coinfabrik.com/emerging-new-trends-blockchain-technologies/> 
+
+How to create Ethereum address to receive MMT (MicroMoney token)
+From <https://medium.com/@micromoney.io/how-to-create-ethereum-address-to-receive-mmt-micromoney-token-c98983c1c3d3> 
+
+Ethereum - How to create a private chain
+From <http://www.cryptocentral.info/topic/1671/ethereum-how-to-create-a-private-chain> 
+
+EtherWorld’s weekly: September 17, 2017
+https://medium.com/@ether_world/etherworlds-weekly-september-17-2017-cf8afe3b1f0d
+
 How to read Ethereum contract storage
 https://medium.com/aigang-network/how-to-read-ethereum-contract-storage-44252c8af925
 
