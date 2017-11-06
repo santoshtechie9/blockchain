@@ -6,3 +6,38 @@ https://blockgeeks.com/what-is-hashing-digital-signature-in-the-blockchain/
 Major roles in blockchain-related projects.
 http://news.8btc.com/ibm-manager-three-types-of-blockchain-developers-mostly-wanted-in-the-future
 
+Blockchain, Bitcoin, Cryptocurrency And ICOs - All You Need To Know In 10 Minutes
+https://www.forbes.com/sites/bernardmarr/2017/09/15/blockchain-bitcoin-cryptocurrency-and-icos-all-you-need-to-know-in-10-minutes/#1a2729e76c55
+
+A How-to Guide to Defining Your Tailored Blockchain Strategy
+From <https://magenta.as/a-how-to-guide-to-defining-your-tailored-blockchain-strategy-86c3a6cf7e25> 
+https://hackernoon.com/what-it-takes-to-build-a-blockchain-mvp-e8af56f6cb8f
+
+Blockchain Adoption Framework
+From <https://www.reddit.com/r/BlockChain/comments/70w6aa/blockchain_adoption_framework/> 
+
+Oracles: where blockchains meet the real world
+From <https://medium.com/cryptopolitics/oracles-where-blockchains-meet-the-real-world-1f9b787db174> 
+
+Blockchain technology : changing the world of business silently
+From <https://medium.com/@crowdholding/blockchain-technology-changing-the-world-of-business-silently-f61a88bf6e7e> 
+
+Building Blockchain; Evaluate, Engineer, Execute?—?Part I.
+From <https://medium.com/the-future-of-financial-services/building-blockchain-evaluate-engineer-execute-part-i-36eb94a51865> 
+
+AcademyCoin (ACAD) - Online education powered by the blockchain | | X11,DGW3, Script|
+From <http://www.cryptocentral.info/topic/1696/academycoin-acad-online-education-powered-by-the-blockchain-x11-dgw3-script> 
+
+Introducing Oracles Network
+From <https://medium.com/oracles-network/introducing-oracles-network-864d1d7e37e2> 
+https://view.ly/?a=64fd3735vlye328
+
+Why did I contribute my money to MicroMoney?
+From <https://medium.com/@micromoney.io/why-did-i-contribute-my-money-to-micromoney-c00e60acdef3> 
+
+WHAT IS BITCOIN – ANOTHER NEWBIE GUIDE
+From <http://www.crypthor.net/what-is-bitcoin-another-newbie-guide/> 
+
+blockcentric #1: Consensus mechanisms of the blockchain
+From <https://blog.codecentric.de/en/2017/10/consensus-mechanisms-blockchain/> 
+
