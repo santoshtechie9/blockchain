@@ -1,9 +1,11 @@
 
 
 
+How to read Ethereum contract storage
+https://medium.com/aigang-network/how-to-read-ethereum-contract-storage-44252c8af925
+
 03-Nov-2017
 ===========
-
 https://www.quora.com/What-are-the-best-open-source-projects-to-study-blockchain-technology-in-terms-of-simplicity
 
 Bottoms Up — Ethereum Set up
