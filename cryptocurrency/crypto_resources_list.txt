@@ -1,5 +1,8 @@
 
 
+RSI Hunter is an automated tool that helps you find cryptocurrencies that are signaling "oversold" and "overbought" on the Relative Strength Indicator.
+http://rsihunter.com/
+
 Cryptocurrency Resources List (109+ links)
 https://hackernoon.com/cryptocurrency-resources-list-109-links-e10aed48dfeb
 https://github.com/coinpride/CryptoList/blob/master/README.md#medium
