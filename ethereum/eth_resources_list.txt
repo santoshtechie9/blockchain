@@ -2,6 +2,41 @@
 
 
 
+Infura:
+
+d6CwyxLdbs96EotcCpiX
+
+Hello Santosh!
+Thank you for registering for early access to INFURA, we hope you enjoy our service and build incredible decentralized applications using INFURA as your engine!
+To get started, use the following provider URLs in your code (in place of localhost):
+Main Ethereum Network
+https://mainnet.infura.io/d6CwyxLdbs96EotcCpiX 
+
+Test Ethereum Network (Ropsten)
+https://ropsten.infura.io/d6CwyxLdbs96EotcCpiX 
+
+Test Ethereum Network (Rinkeby)
+https://rinkeby.infura.io/d6CwyxLdbs96EotcCpiX 
+
+Test Ethereum Network (Kovan)
+https://kovan.infura.io/d6CwyxLdbs96EotcCpiX 
+
+Test Ethereum Network (INFURAnet)
+https://infuranet.infura.io/d6CwyxLdbs96EotcCpiX 
+
+IPFS Gateway
+https://ipfs.infura.io 
+
+IPFS RPC
+https://ipfs.infura.io:5001 
+
+As we continue to build our service offering we plan to develop additional authentication capabilities and a customer portal. More to come...
+We have sent you this information by email. If you haven't received it, kindly check your spam folder.
+
+From <https://infura.io/form/embed.php?id=11217&done=1> 
+
+
+
 Permissioned Blocks White Paper
 From <https://github.com/autocontracts/permissioned-blocks/blob/master/whitepaper.md> 
 
