@@ -10,6 +10,17 @@ https://github.com/coinpride/CryptoList/blob/master/README.md#medium
 http://www.coincatalyst.com/ultimate-guide-to-initial-coin-offerings-research-reading-list/
 https://www.coindesk.com/the-ultimate-list-of-resources-for-researching-and-launching-icos/
 
-
 https://bitcointalk.org/index.php?topic=1715214.3220
 
+
+Trading:
+https://www.cryptocompare.com/exchanges/guides/how-to-trade-bitcoin-with-the-relative-strength-index/
+https://cryptocoinmastery.com/understanding-rsi/
+https://www.coindesk.com/bitcoin-traders-know-technical-analysis/
+https://cryptocoinmastery.com/ema-macd/
+https://steemit.com/trading/@munt/simple-trading-strategy-use-ema-exnensial-moving-average
+
+Bot:
+https://medium.com/@joeldg/an-advanced-tutorial-a-new-crypto-currency-trading-bot-boilerplate-framework-e777733607ae
+https://medium.com/@joeldg/lets-write-a-cryptocurrency-bot-part-2-7adf47f5a80e
+https://medium.com/@joeldg/lets-write-a-cryptocurrency-bot-part-3-826d65e55184
