@@ -56,3 +56,4 @@ Authenticity:
 
 Source:
 https://blog.okex.com/2017/11/02/top-7-cryptocurrency-categories/
+https://github.com/santoshtechie9/blockchain/blob/master/cryptocurrency/CryptoCurrency_Categories.txt
