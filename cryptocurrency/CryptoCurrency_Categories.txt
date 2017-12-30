@@ -1,0 +1,58 @@
+
+
+Most common token categories: 
+
+Curriencies:
+	-Baseprotocol
+	-Payments
+	-Privacy
+
+Developer Tools/Platforms:
+	-Smart contracts
+	-Scaling
+	-Oracles
+	-Securty
+	-Legal
+	-Interoperability
+	-Privacy
+	-DAOs
+
+Fintech:
+	-Trading/DEX
+	-Insurance
+	-Lending
+	-Funds/Investment Management
+
+Sovereignty:
+	-user controlled
+	-Governance
+	-VPN
+	-Communication
+	-Identity
+	-Sevurity
+	-StableCoins
+
+Value Exchange:
+	-Content Monetization
+	-Data
+	-Marketplace
+	-Social
+	-File Storage
+	-Computation
+	-Mesh Networking
+	-Energy
+	-Video
+
+Shared Data:
+	-IOT
+	-SupplyChain/Logistics
+	-Attribution
+	-Reputation
+	-ContentCuration
+
+Authenticity:
+	-Data
+	-Ticketing
+
+Source:
+https://blog.okex.com/2017/11/02/top-7-cryptocurrency-categories/
