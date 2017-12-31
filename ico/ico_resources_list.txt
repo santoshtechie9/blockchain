@@ -1,22 +1,22 @@
 
 
-ICO alert:
+ICO List websites:
+==================
 https://www.icoalert.com/
 https://icostats.com/
+https://icotracker.net/
+https://icobazaar.com/
 https://cointelegraph.com/explained/ico-explained
 https://urbancrypto.com/upcoming-icos/
 
-Delivering independent insight into cryptoassets
-https://icobazaar.com/
-
-ICO Tracker
-https://icotracker.net/
+ICO Reviews:
+============
+https://bitcointalk.org/index.php?topic=2389383.220
+https://blog.icoalert.com/
+http://icorating.com/
 
 Bitcointalk.org:
 https://bitcointalk.org/index.php
-
-ICO Ratings:
-http://icorating.com/
 
 Independent research on blockchain startups and ICO’s
 https://picoloresearch.com/
