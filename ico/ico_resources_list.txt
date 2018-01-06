@@ -2,6 +2,7 @@
 
 ICO List websites:
 ==================
+https://www.icodata.io/
 https://www.icoalert.com/
 https://icostats.com/
 https://icotracker.net/
