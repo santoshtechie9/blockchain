@@ -3,7 +3,7 @@
 ICO List websites:
 ==================
 https://www.icodata.io/
-https://www.icoalert.com/
+https://www.icohotlist.com/
 https://icostats.com/
 https://icotracker.net/
 https://icobazaar.com/
@@ -14,6 +14,7 @@ https://bitcointalk.org/index.php?topic=2451482.0
 ICO Reviews:
 ============
 https://cryptobriefing.com/
+https://www.icoalert.com/
 https://bitcointalk.org/index.php?topic=2389383.220
 https://blog.icoalert.com/
 http://icorating.com/
