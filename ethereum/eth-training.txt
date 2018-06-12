@@ -9,3 +9,7 @@ https://anders.com/blockchain/
 https://en.bitcoin.it/wiki/Block_chain
 https://www.usv.com/blog/fat-protocols
 https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#blockchain-basics
+
+Blockchain Forks:
+https://vitalik.ca/general/2017/03/14/forks_and_markets.html
+https://www.coindesk.com/short-guide-bitcoin-forks-explained/
