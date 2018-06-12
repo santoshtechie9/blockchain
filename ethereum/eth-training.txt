@@ -1,0 +1,5 @@
+
+Merkle Trees:
+https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/
+https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3
+https://github.com/ethereum/wiki/wiki/Patricia-Tree
